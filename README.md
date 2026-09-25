@@ -1,3 +1,4 @@
+# Hi there 👋
 🧠 Neuromechanist bridging brain, movement, and computation
 🔬 Research-driven, impact-oriented
 🛠️ Build practical apps from experimental insights
